@@ -1,0 +1,56 @@
+.border{
+    border: 2px solid transparent;
+    width: 1400px;
+    margin: 0 auto;
+    height: 800px;
+
+}
+.heder{
+   background-color: palegreen;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    width: 100%;
+}
+.nav{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0;
+    width: 100;
+    background-color: #f3e742;
+}
+.section{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: lightsalmon;
+    width: 60%;
+    height: 250px;
+}
+.artical{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: lightslategray;
+    width: 60%;
+    height: 250px;
+}
+.aside{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: lightgray;
+    width: 40%;
+    height: 510px;
+    float: right;
+
+}
+.footer{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgb(101, 213, 241);
+    width: 100%;
+    
+
+}
